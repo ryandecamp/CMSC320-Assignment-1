@@ -5,3 +5,7 @@ Answer: I'd consider using git because it's a free, open source, popular way to 
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: One field data science could be applied to is sports. It allows us to keep track of things like player statistics, and is great for predicting the outcomes of games or the likelihood of injuries. It's also useful for allowing teams to come up with the optimal, appropriate strategy to beat their opponent.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines changes from two branches while keeping their history visible, but rebasing applies commits from one branch on top of another and rewrites commit history.
