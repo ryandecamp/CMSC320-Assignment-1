@@ -1,3 +1,7 @@
 Q1: Why might be consider using git?
 
-Answer: I'd consider using git because it's a free, open source, popular way to store files that also allows me to see changes to files. It's also really good for collaboration.
+Answer: I'd consider using git because it's a free, open source, popular way to store files that also allows me to see previous changes to files easily (file history). It's also really good for collaboration.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: One field data science could be applied to is sports. It allows us to keep track of things like player statistics, and is great for predicting the outcomes of games or the likelihood of injuries. It's also useful for allowing teams to come up with the optimal, appropriate strategy to beat their opponent.
